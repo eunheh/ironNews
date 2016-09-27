@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<div class="container-wrapper">
+<nav>
+    <span id="iron">I</span>
+    <span class="Iron-News">Iron News</span>
+    <span class="header-link">new</span> |
+    <span class="header-link">comments</span> |
+    <span class="header-link">show</span> |
+    <span class="header-link">ask</span> |
+    <span class="header-link">jobs</span> |
+    <span class="header-link">submit</span>
+    <span class="login">login</span>
+</nav>
+
+<ol class="list-number">
+  <li> <img src="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
+    <span> <a href="#" class="title">
+      The Iorn Yard welcomes new DC engineering cohorts</a>
+    <span class="website"> (theironyard.com)</span>
+    <div class="detail">144 points by CapitalistCart 1 hour ago | <a href="#" class="comments">27 comments</a></div>
+    </span>
+  </li>
+  <li> <img src="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
+    <span> <a href="#" class="title">
+      Beer is delicious, says beer spokesman</a>
+    <span class="website"> (cbc.ca)</span>
+    <div class="detail">59 points by oulipian 1 hour ago | <a href="#" class="comments">14 comments</a></div>
+    </span>
+  </li>
+  <li> <img src="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
+    <span> <a href="#" class="title">
+      Let's stop laughing at Groupon</a>
+    <span class="website"> (fortune.com)</span>
+    <div class="detail">54 points by jasondc 1 hour ago | <a href="#" class="comments">34 comments</a></div>
+    </span>
+  </li>
+  <li> <img src="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
+    <span> <a href="#" class="title">
+      nodes.js</a>
+    <span class="website"> (nodejs.com)</span>
+    <div class="detail">46 points by johnny_reilly 1 hour ago | <a href="#" class="comments">15 comments</a></div>
+    </span>
+  </li>
+  <li> <img src="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
+    <span> <a href="#" class="title">
+      Just Ruby Things</a>
+    <span class="website"> (justrubythings.tumbler.com)</span>
+    <div class="detail">241 points by sjcsjc 6 hour ago | <a href="#" class="comments">100 comments</a></div>
+    </span>
+  </li>
+  <li> <img src="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
+    <span> <a href="#" class="title">
+      How to Ramen-ize Dried Pasta and Rice</a>
+    <span class="website"> (luckypeach.com)</span>
+    <div class="detail">62 points by tptacek 2 hour ago | <a href="#" class="comments">21 comments</a></div>
+    </span>
+  </li>
+  <li> <img src="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
+    <span> <a href="#" class="title">
+      Inside the world of longsword fighting</a>
+    <span class="website"> (nytimes.com)</span>
+    <div class="detail">189 points by benbreen 5 hour ago | <a href="#" class="comments">105 comments</a></div>
+    </span>
+  </li>
+  <li> <img src="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
+    <span> <a href="#" class="title">
+      Does Sponsoring Daring Fireball Work?</a>
+    <span class="website"> (desk.pm)</span>
+    <div class="detail">129 points by saddington 5 hour ago | <a href="#" class="comments">45 comments</a></div>
+    </span>
+  </li>
+  <li> <img src="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
+    <span> <a href="#" class="title">
+      Show HN: I made a site that lets you trade Bitcoin for bulletproof coffee</a>
+    <span class="website"> (bitterproof.org)</span>
+    <div class="detail">46 points by philipn 2 hour ago | <a href="#" class="comments">13 comments</a></div>
+    </span>
+  </li>
+  <li> <img src="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
+    <span> <a href="#" class="title">
+      Chemists find a way to unboil eggs (this one is actually a real headline)</a>
+    <span class="website"> (phys.org)</span>
+    <div class="detail">121 points by lelf 5 hour ago | <a href="#" class="comments">1 comments</a></div>
+    </span>
+  </li>
+  <li> <img src="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
+    <span> <a href="#" class="title">
+      Beautiful law: how design can make alw simpler, useful and fascinating</a>
+    <span class="website"> (legalfutures.co.uk)</span>
+    <div class="detail">13 points by SquareLaw 1 hour ago | <a href="#" class="comments">1comments</a></div>
+    </span>
+  </li>
+  <li> <img src="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
+    <span> <a href="#" class="title">
+      #dctech community member skateboards trhoguh new office; post video on Instagram, Vine, Twitter, Vimeo, Youtube</a>
+    <span class="website"> (techcrunch.com)</span>
+    <div class="detail">15 points by Nimi 2 hour ago | <a href="#" class="comments">3 comments</a></div>
+    </span>
+  </li>
+  <li> <img src="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
+    <span> <a href="#" class="title">
+      JavaScript engineer snaps, kills recruiter trying to fill Java position</a>
+    <span class="website"> (vintag.es)</span>
+    <div class="detail">91 points by jacquesm 6 hour ago | <a href="#" class="comments">63 comments</a></div>
+    </span>
+  </li>
+  <li> <img src="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
+    <span> <a href="#" class="title">
+      On Eigenfaces: I have no idea what an Eigenface is</a>
+    <span class="website"> (mikedusenberry.com)</span>
+    <div class="detail">15 points by dunsenberrymw 4 hour ago | <a href="#" class="comments">2 comments</a></div>
+    </span>
+  </li>
+  <li> <img src="https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif"/>
+    <span> <a href="#" class="title">
+      Coding is awesome</a>
+    <span class="website"> (chris-granger.com)</span>
+    <div class="detail">242 points by oskarth 4 hour ago | <a href="#" class="comments">103 comments</a></div>
+    </span>
+  </li>
+  <li class="more">More</li>
+
+</ol>
+
+<div class="bottom">
+  <hr class="line" width=99.5% noshade></hr>
+    <span class="bottom-menu">Guidelines</span> |
+    <span class="bottom-menu">FAQ</span> |
+    <span class="bottom-menu">Support</span> |
+    <span class="bottom-menu">Lists</span> |
+    <span class="bottom-menu">Bookmarklet</span> |
+    <span class="bottom-menu">DMCA</span> |
+    <span class="bottom-menu">Y Combinator</span> |
+    <span class="bottom-menu">Apply</span> |
+    <span class="bottom-menu">Contact</span> |
+  <div class="search">Search: <input type="text"></input></div>
+  </div>
+
+</div>
+</html>
